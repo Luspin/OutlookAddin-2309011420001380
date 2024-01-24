@@ -44871,7 +44871,7 @@ let loginDialog;
 let logoutDialog;
 const url = location.protocol + '//' + location.hostname + (location.port ? ':' + location.port : '');
 const loginToAzure = (loginComplete, onError) => {
-  const fullUrl = url + '/login.html';
+  const fullUrl = url + '/OutlookAddin-2309011420001380/login.html';
   Office.context.ui.displayDialogAsync(fullUrl, {
     height: 60,
     width: 30
