@@ -9,11 +9,11 @@
     <DefaultLocale>de-DE</DefaultLocale>
     <DisplayName DefaultValue="Addin-Enthus"/>
     <Description DefaultValue="Description"/>
-    <IconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
-    <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-128.png"/>
+    <IconUrl DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-64.png"/>
+    <HighResolutionIconUrl DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-128.png"/>
     <SupportUrl DefaultValue="https://www.vindesk.de/"/>
     <AppDomains>
-        <AppDomain>https://localhost:3000</AppDomain>
+        <AppDomain>https://luspin.github.io/OutlookAddin-2401040010002375</AppDomain>
         <AppDomain>http://localhost:7071</AppDomain>
     </AppDomains>
     <Hosts>
@@ -27,7 +27,7 @@
     <FormSettings>
         <Form xsi:type="ItemRead">
             <DesktopSettings>
-                <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+                <SourceLocation DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/taskpane.html"/>
                 <RequestedHeight>250</RequestedHeight>
             </DesktopSettings>
         </Form>
@@ -153,13 +153,13 @@
 
         <Resources>
             <bt:Images>
-                <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/icon-16.png"/>
-                <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/icon-32.png"/>
-                <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/icon-80.png"/>
+                <bt:Image id="Icon.16x16" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-16.png"/>
+                <bt:Image id="Icon.32x32" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-32.png"/>
+                <bt:Image id="Icon.80x80" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-80.png"/>
             </bt:Images>
             <bt:Urls>
-                <bt:Url id="TaskpaneRead.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
-                <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane-write.html"/>
+                <bt:Url id="TaskpaneRead.Url" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/taskpane.html"/>
+                <bt:Url id="Taskpane.Url" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/taskpane-write.html"/>
             </bt:Urls>
             <bt:ShortStrings>
                 <bt:String id="GroupLabel" DefaultValue="Addin-Enthus"/>
@@ -246,14 +246,14 @@
 
             <Resources>
                 <bt:Images>
-                    <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/icon-16.png"/>
-                    <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/icon-32.png"/>
-                    <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/icon-80.png"/>
+                    <bt:Image id="Icon.16x16" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-16.png"/>
+                    <bt:Image id="Icon.32x32" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-32.png"/>
+                    <bt:Image id="Icon.80x80" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/assets/icon-80.png"/>
                 </bt:Images>
                 <bt:Urls>
-                    <bt:Url id="TaskpaneRead.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
-                    <bt:Url id="TaskpaneReadUrl" DefaultValue="https://localhost:3000/taskpane.html"/>
-                    <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane-write.html"/>
+                    <bt:Url id="TaskpaneRead.Url" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/taskpane.html"/>
+                    <bt:Url id="TaskpaneReadUrl" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/taskpane.html"/>
+                    <bt:Url id="Taskpane.Url" DefaultValue="https://luspin.github.io/OutlookAddin-2401040010002375/taskpane-write.html"/>
                 </bt:Urls>
                 <bt:ShortStrings>
                     <bt:String id="GroupLabel" DefaultValue="Enthus-Addin"/>
@@ -274,7 +274,7 @@
             </Resources>
             <WebApplicationInfo>
                 <Id>30d37058-52d8-4fc5-8dad-626a7097723c</Id>
-                <Resource>api://localhost:3000/30d37058-52d8-4fc5-8dad-626a7097723c</Resource>
+                <Resource>api://luspin.github.io/OutlookAddin-2401040010002375/30d37058-52d8-4fc5-8dad-626a7097723c</Resource>
                 <Scopes>
                     <Scope>Files.ReadWrite</Scope>
                     <Scope>Mail.Read</Scope>
