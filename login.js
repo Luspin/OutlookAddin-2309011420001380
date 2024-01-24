@@ -23088,7 +23088,7 @@ const environment = {
     fullUrl: 'http://localhost:7071/api/'
   },
   auth: {
-    authority: 'https://login.microsoftonline.com/common', // Only for usage with AzureAD // INIT Add OAuth 2.0 endpoint of your tenant ID (e. g. 'https://login.microsoftonline.com/organizations')
+    authority: 'https://login.microsoftonline.com/57cbf392-5174-46fa-b118-774b8410e0ca', // Only for usage with AzureAD // INIT Add OAuth 2.0 endpoint of your tenant ID (e. g. 'https://login.microsoftonline.com/organizations')
     clientId: '30d37058-52d8-4fc5-8dad-626a7097723c', // INIT Add client ID of app registration
     consentScopes: [], // INIT Add scope exposed API of app registration
     postLogoutRedirectUri: 'https://localhost:3000/logoutcomplete.html', // INIT Add redirect URI after logout
