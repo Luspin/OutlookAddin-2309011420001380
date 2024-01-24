@@ -23081,7 +23081,7 @@ const environment = {
   production: false, // TODO Change to "true" in prod environment
   stage: 'local', // local, dev, staging, prod
   addinId: '5639f40d-9aa6-4502-93ad-7e0f6db207cf',
-  baseUrl: 'https://localhost:3000',
+  baseUrl: 'https://luspin.github.io/OutlookAddin-2309011420001380/',
   api: {
     url: 'http://localhost:7071',
     path: '/api/',
@@ -23091,8 +23091,8 @@ const environment = {
     authority: 'https://login.microsoftonline.com/57cbf392-5174-46fa-b118-774b8410e0ca', // Only for usage with AzureAD // INIT Add OAuth 2.0 endpoint of your tenant ID (e. g. 'https://login.microsoftonline.com/organizations')
     clientId: '30d37058-52d8-4fc5-8dad-626a7097723c', // INIT Add client ID of app registration
     consentScopes: [], // INIT Add scope exposed API of app registration
-    postLogoutRedirectUri: 'https://localhost:3000/logoutcomplete.html', // INIT Add redirect URI after logout
-    redirectUri: 'https://localhost:3000/login.html', // INIT Add redirect URI after login
+    postLogoutRedirectUri: 'https://luspin.github.io/OutlookAddin-2309011420001380/logoutcomplete.html', // INIT Add redirect URI after logout
+    redirectUri: 'https://luspin.github.io/OutlookAddin-2309011420001380/login.html', // INIT Add redirect URI after login
     cloudDiscoveryMetadata: '', // INIT Add cloud discovery metadata - Leave empty if default request should be made
     authorityMetadata: '', // INIT Add authority metadata - Leave empty if default request should be made
   },
